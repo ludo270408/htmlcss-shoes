@@ -22,3 +22,36 @@
 .bg-yellow{
     background-color: yellow;
 }
+
+
+.row{
+    width: 100%;
+    display: flex;
+    gap: 20px 20px;
+    flex-wrap: wrap;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+}
+
+img{
+    width: 600px;
+    height: 500px;
+}
+
+.padding{
+    padding: 60px 500px;
+}
+
+
+/*COLUMS*/
+
+.col-15{
+    width: 15%;
+}
+
+.col-70{
+    width: 70%;
+} 
